@@ -17,3 +17,7 @@ alloy-primitives = { workspace = true }
 
 [features]
 default = []
+
+[dev-dependencies]
+scroll-zkvm-types.workspace = true
+sbv-primitives.workspace = true

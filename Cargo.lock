@@ -7508,6 +7508,8 @@ dependencies = [
  "bincode 2.0.1",
  "openvm",
  "openvm-keccak256-guest",
+ "sbv-primitives",
+ "scroll-zkvm-types",
  "scroll-zkvm-types-bundle",
  "scroll-zkvm-types-circuit",
 ]
